@@ -1,0 +1,18 @@
+.header {
+    background-image: url("src/assets/_moon.jpg");
+    background-size: cover;
+}
+
+.title {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-left: 40%;
+    font-family: 'Amatic SC', cursive;
+    font-size: 80px;
+    letter-spacing: 8px;
+    color: rgb(104, 107, 112);
+}
+
+.nav-item{
+    padding-left: 30px !important; 
+}
